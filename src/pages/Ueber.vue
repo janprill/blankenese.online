@@ -22,7 +22,7 @@
 
         <div class="relative lg:flex lg:items-center">
           <div class="hidden lg:block lg:flex-shrink-0">
-            <img class="h-64 w-64 rounded-full xl:h-80 xl:w-80" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
+            <img class="h-64 w-64 rounded-full xl:h-80 xl:w-80" src="/img/jan.jpg" alt="" />
           </div>
 
           <div class="relative lg:ml-10">
@@ -32,17 +32,19 @@
             <blockquote>
               <div class="text-2xl leading-9 font-medium text-gray-900">
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.
+                  Ich möchte helfen. Mangels medizinischer Ausbildung kann ich es nicht im Krankenhaus tun. Aber zumindest kann ich mit dem helfen, was ich 
+                  habe: Viel eCommerce Erfahrung, kombiniert mit IT-Rechtskenntnissen. Das zusammen kann Sie und Ihr lokales Unternehmen sehr schnell online bringen.
+                  Ich freue mich darauf!
                 </p>
               </div>
               <footer class="mt-8">
                 <div class="flex">
                   <div class="flex-shrink-0 lg:hidden">
-                    <img class="h-12 w-12 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" />
+                    <img class="h-12 w-12 rounded-full" src="/img/jan.jpg" alt="" />
                   </div>
                   <div class="ml-4 lg:ml-0">
-                    <div class="text-base leading-6 font-medium text-gray-900">Judith Black</div>
-                    <div class="text-base leading-6 font-medium text-indigo-600">CEO, Tuple</div>
+                    <div class="text-base leading-6 font-medium text-gray-900">Jan Prill</div>
+                    <div class="text-base leading-6 font-medium text-indigo-600">blankenese.online</div>
                   </div>
                 </div>
               </footer>
