@@ -180,7 +180,7 @@
                 <div class="ml-4">
                   <h5 class="text-lg leading-6 font-medium text-gray-900">Vierter Schritt: Wenn die Krise vorbei ist</h5>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Haben Sie Ihre ersten Schritte online gemacht und gehenn gestärkt aus dieser heftigen Situation hervor, die wir alle
+                    ...haben Sie Ihre ersten Schritte online gemacht und gehenn gestärkt aus dieser heftigen Situation hervor, die wir alle
                     gezwungenermaßen gerade miterleben. Sie werden das Beste aus der Situation gemacht haben.
                   </p>
                 </div>
