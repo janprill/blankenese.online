@@ -270,21 +270,5 @@
   </Layout>
 </template>
 
-<script>
-export default {
-  metaInfo: {
-    title: 'Blankenese online!'
-  },
-  data() {
-    return {
-      isOpen: false,
-    }
-  },
-  methods: {
-    toggle() {
-      this.isOpen = !this.isOpen
-    },
-  }, 
-}
-</script>
+
 
