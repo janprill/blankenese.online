@@ -1,5 +1,5 @@
 {
-  "name": "blankenese",
+  "name": "Blankenese.online",
   "private": true,
   "scripts": {
     "build": "gridsome build",
