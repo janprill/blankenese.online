@@ -202,7 +202,115 @@
     </div>
     <!-- eof: so funktioniert es -->
 
+    <!-- next -->
+    <div class="bg-white pt-16 pb-20 px-4 sm:px-6 lg:pt-24 lg:pb-28 lg:px-8">
+      <div class="relative max-w-lg mx-auto lg:max-w-7xl">
+        <div>
+          <h2 class="text-3xl leading-9 tracking-tight font-extrabold text-gray-900 sm:text-4xl sm:leading-10">
+            Und was kommt als nächstes?
+          </h2>
+          <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
+            Ich bin schnell! In den nächsten Tagen. Wahrscheinlich schon über dieses Wochende wird es auf blankenese.online folgendes
+            geben:
+          </p>
+        </div>
+        <div class="mt-12 grid gap-16 border-t-2 border-gray-100 pt-12 lg:grid-cols-3 lg:col-gap-5 lg:row-gap-12">
+          <div>
+            <div>
+              <a href="#" class="inline-block">
+                <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 bg-indigo-100 text-indigo-800">
+                  Forum
+                </span>
+              </a>
+            </div>
+            <a href="#" class="block">
+              <h3 class="mt-4 text-xl leading-7 font-semibold text-gray-900">
+                Austausch über das Leben in der Krise
+              </h3>
+              <p class="mt-3 text-base leading-6 text-gray-500">
+                Es wird ein Forum geben, in dem jeder seine Tipps geben kann, wie man in der Krise gut klarkommt. Welches
+                Restaurant liefert neuerdings? Wo gibt es noch Toilettenpapier. Es gibt viele Fragen und ebensoviele Antworten.
+              </p>
+            </a>
+          </div>
+          <div>
+            <div>
+              <a href="#" class="inline-block">
+                <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 bg-pink-100 text-pink-800">
+                  Marktplatz
+                </span>
+              </a>
+            </div>
+            <a href="#" class="block">
+              <h3 class="mt-4 text-xl leading-7 font-semibold text-gray-900">
+                Es wird einen Marktplatz geben
+              </h3>
+              <p class="mt-3 text-base leading-6 text-gray-500">
+                Auf dem man fast so einkaufen kann, wie es im Dorf vor der Krise ging. Und dabei unterstützt man den lokalen Handel
+                und nicht die Onlineriesen, die aktuell ohnehin besser klarkommen, als die meisten anderen Unternehmer.
+              </p>
+            </a>
+          </div>
+          <div>
+            <div>
+              <a href="#" class="inline-block">
+                <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 bg-green-100 text-green-800">
+                  Dienstleistungen
+                </span>
+              </a>
+            </div>
+            <a href="#" class="block">
+              <h3 class="mt-4 text-xl leading-7 font-semibold text-gray-900">
+                Es wird Onlinezugang zu Dienstleistungen geben
+              </h3>
+              <p class="mt-3 text-base leading-6 text-gray-500">
+                Sie haben Fragen an einen Anwalt, weil es in der Krise nun einmal zu Konflikten kommt? Oder benötigen eine Auskunft vom Arzt,
+                ohne sich in ein Wartenzimmer setzen zu wollen? Viele dieser Dienstleistungen lassen sich verschlüsselt und rechtssicher auch 
+                online erbringen. Wir werden sehen, wie wir dies mit lokalen Dienstleistern ermöglichen können.
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- eof: next -->
 
+    <!-- FAQ -->
+    <div class="bg-gray-50">
+      <div class="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+        <h2 class="text-3xl leading-9 font-extrabold text-gray-900 sm:text-4xl sm:leading-10">
+          Fragen, die Sie sich vielleicht stellen:
+        </h2>
+        <div class="mt-6 border-t-2 border-gray-200 pt-6">
+          <dl>
+            <div class="md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base leading-6 font-medium text-gray-900 md:col-span-5">
+                Wie stellen wir sicher, dass wir keine rechtlichen Probleme bekommen?
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base leading-6 text-gray-500">
+                  Es besteht überhaupt kein Grund, in dieser Situation aus Angst vor datenschutzrechtlichen Problemen nicht die notwendigen Schritte zu gehen. 
+                  Ich habe jahrelange Erfahrung in der Entwicklung von eCommerce-Seiten und - wie der Zufall so will - bin ich auch noch Rechtsanwalt. Gemeinsam
+                  werden wir die notwendigen Schritte vornehmen, um die Seite rechtssicher zu machen.
+                </p>
+              </dd>
+            </div>
+            <div class="mt-8 border-t border-gray-200 pt-6 md:grid md:grid-cols-12 md:gap-8">
+              <dt class="text-base leading-6 font-medium text-gray-900 md:col-span-5">
+                Warum sollte ich glauben, dass Sie keine Hintergedanken haben?
+              </dt>
+              <dd class="mt-2 md:mt-0 md:col-span-7">
+                <p class="text-base leading-6 text-gray-500">
+                  Warum sollte ich, ich habe Lust zu helfen. Ich habe jüngst bereits an einer Veranstaltung der Bundesregierung teilgenommen, in der über 40.000
+                  Teilnehmer aus der IT-Industrie zusammengearbeitet haben, um Lösungen für die Krise zu entwickeln. Ich will helfen. Mehr nicht.
+                </p>
+              </dd>
+            </div>
+          </dl>
+        </div>
+      </div>
+    </div>
+    <!-- eof: FAQ -->
 
 
 
