@@ -97,7 +97,7 @@
           </h3>
           <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500">
             Stellen Sie sich vor, alles was bislang im Dorf zu kaufen war, ist in der Krise online verfügbar. Wir alle, Nachbarn, Freunde,
-            Blankeneser, Sülldorfer, Iserbrooker, Niendorfer halten in der Krise zusammen und unterstützen unsere lokalen Unternehmen.
+            Blankeneser, Rissener, Sülldorfer, Iserbrooker, Nienstedtener halten in der Krise zusammen und unterstützen unsere lokalen Unternehmen.
           </p>
           <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500">
             Das geht! Das ist überhaupt kein Problem! Wenn es überhaupt etwas Gutes gibt, an der Coronakrise, dann gehört vielleicht folgende
@@ -335,8 +335,3 @@ export default {
 }
 </script>
 
-<style>
-.home-links a {
-  margin-right: 1rem;
-}
-</style>
