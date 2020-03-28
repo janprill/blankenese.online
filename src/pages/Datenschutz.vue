@@ -89,7 +89,7 @@
             <div class="px-4 py-8 sm:px-0">
               
 
-    <div class="text-gray-600 container max-w-xl mx-auto font-copy text-lg">
+    <div class="text-gray-600 container max-w-3xl mx-auto font-copy text-lg">
       <h1 class="text-4xl mt-16 font-bold">Datenschutzerklärung</h1>
       <h2 class="text-xl mt-16 font-bold" id="m14">Einleitung</h2>
       <p class="mt-4">
