@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div x-data="{ open: false }" class="relative bg-white overflow-hidden">
+    <div class="relative bg-white overflow-hidden">
       <div class="max-w-screen-xl mx-auto ">
         <div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
           <div class="pt-6 px-4 sm:px-6 lg:px-8">
@@ -11,7 +11,7 @@
                     <img class="h-8 w-auto sm:h-10" src="/img/logos/workflow-mark-on-white.svg" alt="" />
                   </a>
                   <div class="-mr-2 flex items-center md:hidden">
-                    <button @click="open = true" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                    <button @click="toggle" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
                       <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
                       </svg>
@@ -28,7 +28,7 @@
             </nav>
           </div>
 
-          <div x-show="open" x-transition:enter="duration-150 ease-out" x-transition:enter-start="opacity-0 scale-95" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="duration-100 ease-in" x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-95" class="absolute top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
+          <div x-transition:enter="duration-150 ease-out" x-transition:enter-start="opacity-0 scale-95" x-transition:enter-end="opacity-100 scale-100" x-transition:leave="duration-100 ease-in" x-transition:leave-start="opacity-100 scale-100" x-transition:leave-end="opacity-0 scale-95" class="absolute top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden" :class="{ 'hidden': !isOpen, 'block': isOpen }">
             <div class="rounded-lg shadow-md">
               <div class="rounded-lg bg-white shadow-xs overflow-hidden">
                 <div class="px-5 pt-4 flex items-center justify-between">
@@ -36,7 +36,7 @@
                     <img class="h-8 w-auto" src="/img/logos/workflow-mark-on-white.svg" alt="" />
                   </div>
                   <div class="-mr-2">
-                    <button @click="open = false" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                    <button @click="toggle" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
                       <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
                       </svg>
@@ -143,8 +143,8 @@
                   <h5 class="text-lg leading-6 font-medium text-gray-900">Zweiter Schritt: Wir bauen einen Marktplatz</h5>
                   <p class="mt-2 text-base leading-6 text-gray-500">
                     Aus Ihrem Angebot, sowie den Angeboten Ihrer Kollegen aus dem lokalen Einzelhandel des Hamburger Westens bildet sich ein
-                    Krisen-Marktplatz. Mehr und mehr Menschen werden online bestellen. Die Frage ist, ob sie dies so tun, dass Sie als lokaler
-                    Anbieter weiter Geschäft machen, oder ob nur der Onlineversand profitiert. Lassen Sie uns den lokalen Markt stärken!s
+                    Marktplatz. Mehr und mehr Menschen werden online bestellen. Die Frage ist, ob sie dies so tun, dass Sie als lokaler
+                    Anbieter weiter Geschäft machen, oder ob nur der Onlineversand profitiert. Lassen Sie uns den lokalen Markt stärken!
                   </p>
                 </div>
               </div>
@@ -210,7 +210,7 @@
             Und was kommt als nächstes?
           </h2>
           <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
-            Ich bin schnell! In den nächsten Tagen. Wahrscheinlich schon über dieses Wochende wird es auf blankenese.online folgendes
+            Ich bin schnell! In den nächsten Tagen, wahrscheinlich schon über dieses Wochende wird es auf blankenese.online folgendes
             geben:
           </p>
         </div>
@@ -301,7 +301,7 @@
               </dt>
               <dd class="mt-2 md:mt-0 md:col-span-7">
                 <p class="text-base leading-6 text-gray-500">
-                  Warum sollte ich, ich habe Lust zu helfen. Ich habe jüngst bereits an einer Veranstaltung der Bundesregierung teilgenommen, in der über 40.000
+                  Warum sollte ich? Ich habe Lust zu helfen. Ich habe jüngst bereits an einer Veranstaltung der Bundesregierung teilgenommen, in der über 40.000
                   Teilnehmer aus der IT-Industrie zusammengearbeitet haben, um Lösungen für die Krise zu entwickeln. Ich will helfen. Mehr nicht.
                 </p>
               </dd>
@@ -321,7 +321,17 @@
 export default {
   metaInfo: {
     title: 'Blankenese online!'
-  }
+  },
+  data() {
+    return {
+      isOpen: false,
+    }
+  },
+  methods: {
+    toggle() {
+      this.isOpen = !this.isOpen
+    },
+  }, 
 }
 </script>
 
