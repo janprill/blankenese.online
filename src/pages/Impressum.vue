@@ -39,7 +39,7 @@
       <p class="mt-6">
         Telefon: +49 171 3516667<br />
         Telefax: +49 40 380178-730229<br />
-        E-Mail: jan.prill@inviado.com
+        E-Mail: jan.prill@gmail.com
       </p>
 
       <h2 class="mt-16 font-neuzeit text-2xl font-bold">Berufsbezeichnung und berufsrechtliche Regelungen</h2>
