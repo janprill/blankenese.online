@@ -183,6 +183,8 @@
               <p class="mt-3 text-base leading-6 text-gray-500">
                 Es wird ein Forum geben, in dem jeder seine Tipps geben kann, wie man in der Krise gut klarkommt. Welches
                 Restaurant liefert neuerdings? Wo gibt es noch Toilettenpapier? Es gibt viele Fragen, aber zum Glück auch ebensoviele Antworten.
+                Los geht es mit einer Seite auf Facebook:
+                <a href="https://www.facebook.com/blankenese.online" class="underline">https://www.facebook.com/blankenese.online</a>
               </p>
             </a>
           </div>
