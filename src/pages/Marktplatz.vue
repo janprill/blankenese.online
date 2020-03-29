@@ -8,7 +8,7 @@
           versammelt. 
           Wir möchten Ihnen helfen, in der Krise besser klar zu kommen. Und Sie können selbst mit jeder Entscheidung als Verbraucher
           beeinflussen, wie Sie Einfluss auf die wirtschaftlichen Folgen der Krise nehmen. Und: Etwas Gutes kann das alles doch haben:
-          Sie lernen hier Nachbarn kennen und erfahren von Ihrer Arbeit, an denen Sie sonst einfach vorbeigelebt hätten.
+          Sie lernen hier Nachbarn kennen und erfahren von ihrer Arbeit, an denen Sie sonst einfach vorbeigelebt hätten.
         </p>
         <p class="mt-6">
           Wir zimmern das Schiff übrigens zusammen, während wir bereits lossegeln!
