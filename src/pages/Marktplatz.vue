@@ -4,43 +4,68 @@
       <h1 class="font-neuzeit text-4xl mt-16 font-bold">Marktplatz</h1>
       <div class="max-w-3xl">
         <p class="mt-6">
-          Bei Amazon oder anderen sehr großen Onlinehändlern zu bestellen ist sehr bequem. Das hat viele Gründe:
+          Obwohl blankenese.online noch so eine junge Initiative ist, haben wir hier bereits einige Angebote und Dienstleistungen 
+          versammelt, die Ihnen helfen können, in der Krise besser klar zu kommen und mit denen Sie helfen können, dass Unternehmen 
+          oder Einzelpersonen aus Ihrer unmittelbaren Nachbarschaft in dieser herausfordernden Zeit wirtschaftlichen Erfolg haben.
         </p>
         <p class="mt-6">
-          Trotzdem kaufen viele Menschen lieber lokal ein. Sie sind froh, über die Geschäfte in der Nachbarschaft, in denen sie 
-          persönlichen Kontakt pflegen können, Kleidung anprobieren können oder Empfehlungen von der Buchhändlerin bekommen, die auch 
-          das letzte Buch so gut ausgewählt hatte.
+          Wir zimmern das Schiff zusammen, während wir schon los segeln!
+          Starten wir also mit dem unserem Marktplatz:
         </p>
+        <h2 class="mt-8 font-bold text-2xl">
+          Schönes / Geschenkideen von Blankeneser Unternehmen
+        </h2>
+        <Shop class="mt-10" url="background-image: url('/img/portrait_sina_large.jpg')">
+          <template v-slot:kicker>design letters &amp; art prints</template>
+          <template v-slot:main>
+            Spoon: Fein typografierte und handgeschriebene Art Prints in hochwertiger Qualität und limitierter Auflage.
+          </template>
+          <template v-slot:bottom>Sina Peters bietet bei Ihrem Label Spoon fein typografierte und handgeschriebene Art Prints an, mit denen
+            Sie Büro und Wohnung verschönern können. Schauen Sie sich in Ihrem Onlineshop um. Sina arbeitet aus ihrem Zuhause in Blankenese.
+          </template>
+        </Shop>
+
+        
+        <h2 class="mt-8 font-bold text-2xl">
+          Rechtsberatung
+        </h2>
         <p class="mt-6">
-          Die Coronakrise stellt den lokalen Einzelhandel vor die wohl größte Herausforderung, die man sich in unserer Zeit vorstellen kann.
-          Viele Geschäfte sind gezwungenermaßen geschlossen. Kollektionen sind bestellt und drohen zu "verfallen", weil die Geschäfte
-          möglicherweise erst wieder öffnen können, wenn der Sommer schon in voller Pracht steht.
+          Anwaltliche Dienstleistungen können Sie telefonisch, oder per Videocall in Anspruch nehmen. Zwei Partner, bei denen sie 
+          Hilfe bekommen können, wenn es z.B. Nachbarschaftsstreit gibt, oder die Krise bei Ihnen zu arbeitsrechtlichen Fragen führt.
         </p>
+        <Shop class="mt-10" url="background-image: url('/img/portrait_sina_large.jpg')">
+          <template v-slot:kicker>Kostenlose Erstberatungen zu rechtlichen Fragen in der Krise</template>
+          <template v-slot:main>
+            Kanzlei Buggenthin &amp; Kollegen
+          </template>
+          <template v-slot:bottom>
+            Auf meinen Post über blankenese.online hat sich RA Dirk Buggenthin direkt gemeldet und angeboten, in rechtlichen Fragen, die aus
+            der Coronakrise entstehen eine kostenlose Erstberatung zu übernehmen. Dirk ist ein "Blankeneser Alumni"! Er war mit mir im gleichen
+            Abijahrgang auf dem Gymnasium Blankense. Danke Dirk!s
+          </template>
+        </Shop>
+        <Shop class="mt-10" url="background-image: url('/img/portrait_sina_large.jpg')">
+          <template v-slot:kicker>Immobilienrecht / Nachbarrecht</template>
+          <template v-slot:main>
+            
+          </template>
+          <template v-slot:bottom>
+            Auf meinen Post über blankenese.online hat sich RA Dirk Buggenthin direkt gemeldet und angeboten, in rechtlichen Fragen, die aus
+            der Coronakrise entstehen eine kostenlose Erstberatung zu übernehmen. Dirk ist ein "Blankeneser Alumni"! Er war mit mir im gleichen
+            Abijahrgang auf dem Gymnasium Blankense. Danke Dirk!s
+          </template>
+        </Shop>
+
+        <h2 class="mt-8 font-bold text-2xl">
+          Kultur
+        </h2>
         <p class="mt-6">
-          Für uns Verbraucher stellt sich die Frage: Gehen wir den bequemen Weg und decken unseren Lebensbedarf im großen Onlineversand, in dem 
-          Lagerarbeiter verzweifelt hoffen, dass in der Lagerhalle niemand Corona in die Belegschaft trägt, oder können wir etwas tun, um die lokalen
-          Geschäfte zu stärken, in denen wir nach der Krise wieder einkaufen wollen?
+          Nehmen Sie sich die Zeit, etwas Schönes zu lesen. Heymann, Ihr Buchladen am Blankeneser Bahnhof bestellt alle Bücher, die Sie sonst
+          bei geschlossenen Geschäften wahrscheinlich bei Amazon bestellen würden.
         </p>
+
         <p class="mt-6">
-          Jede Krise birgt auch Chancen, heißt es. Ich glaube, das gilt hier in ganz besonderem Maße. Viele Blankeneser Unternehmen und andere 
-          Geschäfte aus dem Hamburger Westen haben bis heute keinen Onlineshop. Sie nutzten bisher die Möglichkeiten, die das Interrnet bietet,
-          weitere Kundenkreise zu erschließen nicht. Dies ist in dieser Zeit bitter, weil das kontaktlose Bezahlen, die schnelle Bestellung im 
-          Internet für diese Unternehmen noch keinen Umsatz erzeugt. 
-        </p>
-        <p class="mt-6">
-          Aber wir können das ändern. Und wir können das auch sehr schnell, in wenigen Stunden konzentrierter Arbeit ändern. Ich möchte Ihnen
-          anbieten dies zu tun. Gemeinsam können wir einen blankenese.online Marktplatz schaffen, der besteht aus:
-        </p>
-        <ul class="list-disc m-6">
-          <li>Den lokalen Einzelhandelsgeschäften, die bereits einen Onlineshop haben.</li>
-          <li>Jenen regionalen Geschäften, denen wir jetzt schnell, pragmatisch und unkompliziert einen Onlineshop pro-bono aufbauen.</li>
-          <li>Und schließlich jenen Unternehmen, die zumindest schnelle, pragmatische Wege finden, um telefonische Bestellungen von Waren zu ermöglichen. Einige dieser Unternehmen sind z.B. auf den Seiten der 
-            <a href="https://www.blankenese-ig.de/" target="_blank">blankenese-ig.de</a> aufgelistet.
-          </li>
-        </ul>
-        <p class="mt-6">
-          Lassen Sie uns diese Herausforderung gemeinsam annehmen. Ich habe einige Stunden in der Woche Zeit und aufgrund meiner beruflichen
-          Erfahrung im eCommerce werden Sie staunen, was wir in der Zeit bewegen können. 
+          Sie möchten auch hier gelistet werden? Dann nehmen Sie doch Kontakt auf...
         </p>
         <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div class="rounded-md shadow">
@@ -53,3 +78,12 @@
     </div>
   </Layout>
 </template>
+
+<script>
+import Shop from '~/components/Shop.vue'
+export default {
+  components: {
+    Shop
+  }
+}
+</script>
