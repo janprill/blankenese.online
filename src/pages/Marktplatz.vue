@@ -5,12 +5,6 @@
       <div class="max-w-3xl">
         <p class="mt-6">
           Bei Amazon oder anderen sehr großen Onlinehändlern zu bestellen ist sehr bequem. Das hat viele Gründe:
-          <ul class="list-disc m-6">
-            <li>Man bekommt dort alles.</li>
-            <li>Die Lieferung klappt meist zuverlässig und schnell</li>
-            <li>Die Zahlungsdaten sind bereits hinterlegt. Viele bestellen mit nur einem Klick.</li>
-            <li>Mobile Bestellungen sind mit einem Klick erledigt. Egal, ob man gerade auf die Bahn wartet, oder beim Mittagessen einen Produkttipp von einem Kollegen bekommt.</li>
-          </ul> 
         </p>
         <p class="mt-6">
           Trotzdem kaufen viele Menschen lieber lokal ein. Sie sind froh, über die Geschäfte in der Nachbarschaft, in denen sie 
@@ -36,14 +30,14 @@
         <p class="mt-6">
           Aber wir können das ändern. Und wir können das auch sehr schnell, in wenigen Stunden konzentrierter Arbeit ändern. Ich möchte Ihnen
           anbieten dies zu tun. Gemeinsam können wir einen blankenese.online Marktplatz schaffen, der besteht aus:
-          <ul class="list-disc m-6">
-            <li>Den lokalen Einzelhandelsgeschäften, die bereits einen Onlineshop haben.</li>
-            <li>Jenen regionalen Geschäften, denen wir jetzt schnell, pragmatisch und unkompliziert einen Onlineshop pro-bono aufbauen.</li>
-            <li>Und schließlich jenen Unternehmen, die zumindest schnelle, pragmatische Wege finden, um telefonische Bestellungen von Waren zu ermöglichen. Einige dieser Unternehmen sind z.B. auf den Seiten der 
-              <a href="https://www.blankenese-ig.de/" target="_blank">blankenese-ig.de</a> aufgelistet.
-            </li>
-          </ul> 
         </p>
+        <ul class="list-disc m-6">
+          <li>Den lokalen Einzelhandelsgeschäften, die bereits einen Onlineshop haben.</li>
+          <li>Jenen regionalen Geschäften, denen wir jetzt schnell, pragmatisch und unkompliziert einen Onlineshop pro-bono aufbauen.</li>
+          <li>Und schließlich jenen Unternehmen, die zumindest schnelle, pragmatische Wege finden, um telefonische Bestellungen von Waren zu ermöglichen. Einige dieser Unternehmen sind z.B. auf den Seiten der 
+            <a href="https://www.blankenese-ig.de/" target="_blank">blankenese-ig.de</a> aufgelistet.
+          </li>
+        </ul>
         <p class="mt-6">
           Lassen Sie uns diese Herausforderung gemeinsam annehmen. Ich habe einige Stunden in der Woche Zeit und aufgrund meiner beruflichen
           Erfahrung im eCommerce werden Sie staunen, was wir in der Zeit bewegen können. 
