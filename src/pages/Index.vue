@@ -163,7 +163,7 @@
             Und was kommt als nächstes?
           </h2>
           <p class="mt-3 text-xl leading-7 text-gray-500 sm:mt-4">
-            Ich bin schnell! In den nächsten Tagen, wahrscheinlich schon über dieses Wochende wird es auf blankenese.online folgendes
+            Ich bin schnell! In den nächsten Tagen wird es auf blankenese.online folgendes
             geben:
           </p>
         </div>
