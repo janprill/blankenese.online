@@ -4,6 +4,7 @@
       <div class="max-w-screen-xl mx-auto ">
         <div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
           <div class="pt-6 px-4 sm:px-6 lg:px-8">
+            &nbsp;
           </div>
 
           <div class="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
@@ -176,7 +177,6 @@
                 </span>
               </a>
             </div>
-            <a href="#" class="block">
               <h3 class="mt-4 text-xl leading-7 font-semibold text-gray-900">
                 Austausch über das Leben in der Krise
               </h3>
@@ -186,17 +186,13 @@
                 Los geht es mit einer Seite auf Facebook:
                 <a href="https://www.facebook.com/blankenese.online" class="underline">https://www.facebook.com/blankenese.online</a>
               </p>
-            </a>
           </div>
           <div>
             <div>
-              <a href="#" class="inline-block">
                 <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 bg-pink-100 text-pink-800">
                   Marktplatz
                 </span>
-              </a>
             </div>
-            <a href="#" class="block">
               <h3 class="mt-4 text-xl leading-7 font-semibold text-gray-900">
                 Es wird einen Marktplatz geben
               </h3>
@@ -204,17 +200,13 @@
                 Auf dem man fast so einkaufen kann, wie es im Dorf vor der Krise ging. Und dabei unterstützt man den lokalen Handel
                 und nicht die Onlineriesen, die aktuell ohnehin besser klarkommen, als die meisten anderen Unternehmer.
               </p>
-            </a>
           </div>
           <div>
             <div>
-              <a href="#" class="inline-block">
                 <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium leading-5 bg-green-100 text-green-800">
                   Dienstleistungen
                 </span>
-              </a>
             </div>
-            <a href="#" class="block">
               <h3 class="mt-4 text-xl leading-7 font-semibold text-gray-900">
                 Es wird Onlinezugang zu Dienstleistungen geben
               </h3>
@@ -223,7 +215,6 @@
                 ohne sich in ein Wartenzimmer setzen zu wollen? Viele dieser Dienstleistungen lassen sich verschlüsselt und rechtssicher auch 
                 online erbringen. Wir werden sehen, wie wir dies mit lokalen Dienstleistern ermöglichen können.
               </p>
-            </a>
           </div>
         </div>
       </div>
