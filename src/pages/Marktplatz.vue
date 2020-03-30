@@ -70,21 +70,19 @@
           Kultur
         </h2>
         <p class="mt-6">
-          Nehmen Sie sich die Zeit, etwas Schönes zu lesen. Heymann, Ihr Buchladen am Blankeneser Bahnhof liefert alle Bücher, die Sie sonst
+          Nehmen Sie sich die Zeit, etwas Schönes zu lesen. Heymann, Ihr Buchladen am Blankeneser Bahnhof hat alle Bücher, die Sie sonst
           in der Krise wahrscheinlich bei Amazon bestellen würden.
         </p>
         <Shop class="mt-10" url="background-image: url('/img/silke.jpg')">
           <template v-slot:kicker>Silke Böschen</template>
           <template v-slot:main>
-            Roman: Träume von Freiheit - Flammen am Meers
+            Roman: Träume von Freiheit - Flammen am Meer
           </template>
           <template v-slot:bottom>
             Zum Programm, das Heymann liefern kann, gehört natürlich auch der Roman von unserer Blankeneser Nachbarin Silke Böschen: Zwei Frauen. Zwei Leben. Ein Drama.
-            Auch als PDF und ePub beim 
             <a class="underline" href="https://www.gmeiner-verlag.de/buecher/titel/traeume-von-freiheit-flammen-am-meer.html" target="_blank">
-              Gmeiner Verlag
+              Auch als PDF und ePub beim Gmeiner Verlag bestellbar.
             </a>
-            bestellbar.
           </template>
         </Shop>
 
