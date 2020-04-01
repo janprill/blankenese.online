@@ -86,6 +86,45 @@
           </template>
         </Shop>
 
+        <h2 class="mt-8 font-bold text-2xl">
+          Yoga / Coaching
+        </h2>
+        <p class="mt-6">
+          Sport und Yoga kann macht auch in der Krise gemeinsam mehr Spaß. Das ist über Skype, Zoom, Hangouts möglich. 
+        </p>
+        <Shop class="mt-10" url="background-image: url('/img/danielaholm.jpg')">
+          <template v-slot:kicker>Daniela Holm</template>
+          <template v-slot:main>
+            Yoga - Endlich aufblühen
+          </template>
+          <template v-slot:bottom>
+            Daniela Holm bietet zum ersten Kennenlernen auf Ihrer toll gestalteten Internetseite ein kostenloses Telefongespräch von 20min an. Daniela unterstützt
+            Sie in herausfordernden Lebensphasen unnd Krisen, zurück in Ihre Kraft und Leichtigkeit zu finden.
+            <a class="underline" href="https://www.danielaholm.de/" target="_blank">
+              Hier geht es zu Danielas Seite.
+            </a>
+          </template>
+        </Shop>
+
+        <h2 class="mt-8 font-bold text-2xl">
+          Coaching
+        </h2>
+        <p class="mt-6">
+          In der Krise kann es besonders helfen, mit jemandem zu sprechen, andere Perspektiven zu gewinnen.
+        </p>
+        <Shop class="mt-10" url="background-image: url('/img/kristinamohr.jpg')">
+          <template v-slot:kicker>Kristina Mohr</template>
+          <template v-slot:main>
+            Trainings in Entspannung und Clownerie
+          </template>
+          <template v-slot:bottom>
+            Kristina zeigt auf ihrer Website ihren Weg in der Krise. Ein Angebot für Entspannungs-Coaching und Clowns Coaching.
+            <a class="underline" href="https://www.kristinamohr.de/" target="_blank">
+              Hier geht es zu Kristinas Seite.
+            </a>
+          </template>
+        </Shop>
+
         <p class="mt-6">
           Sie möchten auch hier gelistet werden? Dann nehmen Sie doch Kontakt auf...
         </p>

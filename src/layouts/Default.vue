@@ -23,6 +23,9 @@
                 <g-link to="/ueber/" class="ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 text-gray-500 hover:text-gray-700 hover:border-gray-300 focus:outline-none focus:text-gray-700 focus:border-gray-300 transition duration-150 ease-in-out">
                   Warum?
                 </g-link>
+                <g-link to="https://blog.blankenese.online" class="ml-8 inline-flex items-center px-1 pt-1 border-b-2 border-transparent text-sm font-medium leading-5 text-gray-500 hover:text-gray-700 hover:border-gray-300 focus:outline-none focus:text-gray-700 focus:border-gray-300 transition duration-150 ease-in-out">
+                  Blog
+                </g-link>
               </div>
             </div>
 
@@ -43,6 +46,7 @@
             <g-link to="/marktplatz/" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Kauf lokal!</g-link>
             <g-link to="/helfen/" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Helfen!</g-link>
             <g-link to="/ueber/" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Warum?</g-link>
+            <g-link to="https://blog.blankenese.online" class="mt-1 block pl-3 pr-4 py-2 border-l-4 border-transparent text-base font-medium text-gray-600 hover:text-gray-800 hover:bg-gray-50 hover:border-gray-300 focus:outline-none focus:text-gray-800 focus:bg-gray-50 focus:border-gray-300 transition duration-150 ease-in-out">Blog</g-link>
           </div>
         </div>
       </nav>
@@ -75,6 +79,11 @@
             <div class="px-5 py-2">
               <g-link to="/helfen/" class="text-base leading-6 text-gray-500 hover:text-gray-900">
                 Wir helfen
+              </g-link>
+            </div>
+            <div class="px-5 py-2">
+              <g-link to="https://blog.blankenese.online" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+                Blog
               </g-link>
             </div>
           </nav>
