@@ -15,6 +15,22 @@
           Starten wir also mit dem Marktplatz:
         </p>
         <h2 class="mt-8 font-bold text-2xl">
+          Gastronomie
+        </h2>
+        <Shop class="mt-10" url="background-image: url('/img/pizza.jpg')">
+          <template v-slot:kicker>Pizza &amp; Pasta</template>
+          <template v-slot:main>
+            a modo nostro: Hausgemachte Pizza und Pasta
+          </template>
+          <template v-slot:bottom>
+            Angelo und Lars von der Gastronomie an den Tennisplätzen des SVB sind für Euch da und ermöglichen telefonische Bestellungen. 
+            Genießt Pizza, Pasta und Rustikales!
+            <a class="underline" href="https://a-modo-nostro.blankenese.online" target="_blank">
+              Hier geht es zu "a modo nostro". Aktuell noch gehostet auf blankenese.online, bald auf der eigenen Domain!
+            </a>
+          </template>
+        </Shop>
+        <h2 class="mt-8 font-bold text-2xl">
           Schönes / Geschenkideen von Blankeneser Unternehmen
         </h2>
         <Shop class="mt-10" url="background-image: url('/img/portrait_sina_large.jpg')">
